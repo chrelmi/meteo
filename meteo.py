@@ -4,6 +4,10 @@ url='http://api.openweathermap.org/data/2.5/weather?appid=39411ec0a72cb5c7b070e9
 city=url+"perugia, IT"
 jdata=requests.get(city).json()
 fd=jdata['weather'][0]['description']
+fd2=jdata['main']['temp']
+fd2=fd2-273.15
+fd2=int(fd2)
+fd2=str(fd2)
 print(jdata)
 print("-------------------------------------------------")
-print(fd)
+print(fd+" "+fd2)

@@ -23,3 +23,4 @@ for a in cities:
 	print(location.latitude, location.longitude)
 	print("-------------------------------------------------")
 map.save('meteo.html')
+
