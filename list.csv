@@ -1,0 +1,55 @@
+1;clear sky;clearsky.png
+2;broken clouds;cluds.png
+3;drizzle;rain.png
+4;drizzle rain ;rain.png
+5;dust;mist.png
+6;extreme rain ;rain.png
+7;few clouds;fewclouds.png
+8;fog;mist.png
+9;freezing rain ;rain.png
+10;haze;mist.png
+11;heavy intensity drizzle ;rain.png
+12;heavy intensity drizzle rain ;rain.png
+13;heavy intensity rain ;rain.png
+14;heavy intensity shower rain ;rain.png
+15;heavy shower rain and drizzle ;rain.png
+16;heavy shower snow ;snow.png
+17;heavy snow ;snow.png
+18;heavy thunderstorm;thunderstorm.png
+19;light intensity drizzle ;rain.png
+20;light intensity drizzle rain ;rain.png
+21;light intensity shower rain ;rain.png
+22;light rain ;rain.png
+23;light rain and snow ;rain.png
+24;light shower snow ;snow.png
+25;light snow ;snow.png
+26;light thunderstorm ;thunderstorm.png
+27;mist;mist.png
+28;moderate rain ;rain.png
+29;overcast clouds ;clouds.png
+30;ragged shower rain ;rain.png
+31;ragged thunderstorm;thunderstorm.png
+32;rain;rain.png
+33;rain and snow ;rain.png
+34;sand;mist.png
+35;sand, dust whirls ;mist.png
+36;scattered clouds;clouds.png
+37;shower drizzle ;rain.png
+38;shower rain;rain.png
+39;shower rain and drizzle ;rain.png
+40;shower sleet ;snow.png
+41;shower snow ;snow.png
+42;sleet;snow.png
+43;smoke;mist.png
+44;snow;snow.png
+45;squalls;mist.png
+46;thunderstorm;thunderstorm.png
+48;thunderstorm with drizzle;thunderstorm.png
+49;thunderstorm with heavy drizzle ;thunderstorm.png
+50;thunderstorm with heavy rain ;thunderstorm.png
+51;thunderstorm with light drizzle ;thunderstorm.png
+52;thunderstorm with light rain ;thunderstorm.png
+53;thunderstorm with rain;thunderstorm.png
+54;tornado;thunderstorm.png
+55;very heavy rain ;rain.png
+56;volcanic ash ;mist.png
